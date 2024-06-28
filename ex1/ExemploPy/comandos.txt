@@ -1,0 +1,3 @@
+pip install Flask flask-mysqldb Werkzeug
+
+python app.py
